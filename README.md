@@ -1,6 +1,6 @@
-# @react-native-oh-tpl/react-native-unistyles
+# @react-native-oh-tpl/react-native-typography
 
-本项目基于 [react-native-unistyles](https://github.com/hectahertz/react-native-typography)
+本项目基于 [react-native-typography](https://github.com/hectahertz/react-native-typography)
 
 ## 文档地址 / Documentation URL 
 
@@ -16,4 +16,4 @@ The library has been integrated with codegen. Please refer to the documentation 
 
 ## 请悉知 / Acknowledgements
 
-本项目基于 [MIT License (MIT)](https://github.com/hectahertz/react-native-typography/blob/main/LICENSE) ，请自由地享受和参与开源。
+本项目基于 [MIT License (MIT)](https://github.com/hectahertz/react-native-typography/blob/master/LICENSE) ，请自由地享受和参与开源。
