@@ -1,13 +1,13 @@
 # @react-native-oh-tpl/react-native-typography
 
-本项目基于 [react-native-typography](https://github.com/hectahertz/react-native-typography)
+This project is based on [react-native-typography](https://github.com/hectahertz/react-native-typography)
 
-## 文档地址 / Documentation URL 
+## Documentation
 
-[中文 / Chinese](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/react-native-typography.md)
+[中文](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/react-native-typography.md)
 
-[英文 / English](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-en/react-native-typography.md)
+[English](https://gitee.com/react-native-oh-library/usage-docs/blob/master/en/react-native-typography.md)
 
-## 请悉知 / Acknowledgements
+## License
 
-本项目基于 [MIT License (MIT)](https://github.com/hectahertz/react-native-typography/blob/master/LICENSE) ，请自由地享受和参与开源。
+This project is based on [The MIT License (MIT)](https://github.com/hectahertz/react-native-typography/blob/master/LICENSE)
